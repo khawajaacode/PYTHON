@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496bac05-466b-47aa-a1f1-b3f1e93574e0" name="Changes" comment="" />
+    <list default="true" id="496bac05-466b-47aa-a1f1-b3f1e93574e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "khawajaacode"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/khawajaacode/PYTHON.git",
+    "accountId": "70680c86-0cdf-4dc4-88fc-b41a1adac8cd"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Day 1/Count Vowels in a String.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -223,7 +237,7 @@
       <updated>1723816095923</updated>
       <workItem from="1723816097232" duration="3053000" />
       <workItem from="1723867261616" duration="7466000" />
-      <workItem from="1724046459713" duration="874000" />
+      <workItem from="1724046459713" duration="1611000" />
     </task>
     <servers />
   </component>
