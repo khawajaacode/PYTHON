@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496bac05-466b-47aa-a1f1-b3f1e93574e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ Day 4/Lists_and_Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Day 4/Student_Grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ Day 4/To-Do_List_Manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Simple_Password_Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="496bac05-466b-47aa-a1f1-b3f1e93574e0" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,36 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Age Calculator.executor": "Run",
-    "Python.Count Vowels in a String.executor": "Run",
-    "Python.Day2.executor": "Run",
-    "Python.Functions.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.Lists_and_Tuples (1).executor": "Run",
-    "Python.Lists_and_Tuples.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Simple_Password_Validator.executor": "Run",
-    "Python.Student_Grades.executor": "Run",
-    "Python.Temperature Converter.executor": "Run",
-    "Python.To-Do_List_Manager.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/PYTHON",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Age Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count Vowels in a String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dic&amp;Sets (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.File_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists_and_Tuples (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists_and_Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple_Password_Validator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Student_Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temperature Converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To-Do_List_Manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Word_Frequency_Counter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/PYTHON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Simple_Password_Validator">
-    <configuration name="Lists_and_Tuples (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.File_Handling">
+    <configuration name="Dic&amp;Sets (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Day 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Day 4/Lists_and_Tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/Dic&amp;Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lists_and_Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dic&amp;Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,12 +111,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Day 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\PYTHON\ Day 4\Lists_and_Tuples.py" />
+      <option name="SCRIPT_NAME" value="F:\PYTHON\Day 5\Dic&amp;Sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File_Handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/File_Handling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,29 +194,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="To-Do_List_Manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Day 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Day 4/To-Do_List_Manager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
@@ -223,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.File_Handling" />
+        <item itemvalue="Python.Dic&amp;Sets (1)" />
+        <item itemvalue="Python.Dic&amp;Sets" />
         <item itemvalue="Python.Simple_Password_Validator" />
         <item itemvalue="Python.Student_Grades" />
-        <item itemvalue="Python.To-Do_List_Manager" />
-        <item itemvalue="Python.Lists_and_Tuples (1)" />
-        <item itemvalue="Python.Lists_and_Tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +246,37 @@
       <workItem from="1723816097232" duration="3053000" />
       <workItem from="1723867261616" duration="7466000" />
       <workItem from="1724046459713" duration="5980000" />
-      <workItem from="1724078278382" duration="7143000" />
+      <workItem from="1724078278382" duration="8528000" />
+      <workItem from="1724299768471" duration="6393000" />
+      <workItem from="1724422924341" duration="952000" />
+      <workItem from="1724423915764" duration="1755000" />
     </task>
+    <task id="LOCAL-00001" summary="Intial Commit">
+      <option name="closed" value="true" />
+      <created>1724092368039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724092368039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1724425667715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724425667715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial Commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON$Temperature_Converter.coverage" NAME="Temperature Converter Coverage Results" MODIFIED="1723887636180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
@@ -266,10 +287,13 @@
     <SUITE FILE_PATH="coverage/PYTHON$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1723868946701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/PYTHON$main.coverage" NAME="main Coverage Results" MODIFIED="1723817050500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON$Count_Vowels_in_a_String.coverage" NAME="Count Vowels in a String Coverage Results" MODIFIED="1723890012992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1" />
-    <SUITE FILE_PATH="coverage/PYTHON$Simple_Password_Validator.coverage" NAME="Simple_Password_Validator Coverage Results" MODIFIED="1724091851354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems" />
+    <SUITE FILE_PATH="coverage/PYTHON$Simple_Password_Validator.coverage" NAME="Simple_Password_Validator Coverage Results" MODIFIED="1724092294905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems" />
     <SUITE FILE_PATH="coverage/PYTHON$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1724078486128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/PYTHON$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1723870476998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/PYTHON$Lists_and_Tuples__1_.coverage" NAME="Lists_and_Tuples (1) Coverage Results" MODIFIED="1724079695490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ Day 4" />
+    <SUITE FILE_PATH="coverage/PYTHON$Word_Frequency_Counter.coverage" NAME="Word_Frequency_Counter Coverage Results" MODIFIED="1724302965639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
+    <SUITE FILE_PATH="coverage/PYTHON$Dic_Sets__1_.coverage" NAME="Dic&amp;Sets (1) Coverage Results" MODIFIED="1724304236415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 5" />
     <SUITE FILE_PATH="coverage/PYTHON$Age_Calculator.coverage" NAME="Age Calculator Coverage Results" MODIFIED="1723887823839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
+    <SUITE FILE_PATH="coverage/PYTHON$File_Handling.coverage" NAME="File_Handling Coverage Results" MODIFIED="1724425538064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />
   </component>
 </project>
